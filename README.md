@@ -61,21 +61,11 @@ While exploring our dataset, we can perform and notice the following;
 
 • With the use of conditional formating, which is a technique to highlight certain values of interest, we set our new formatting rule to be 'Format only cells that contain'. Then we added on it to be "Format only cells with': Blanks'. Our color of choice was yellow. Then we zoomed out to have a birds eye view of our dataset. We can confirm that our dataset contains no missing values. Another method would be to go to the 'Data' section of Excel and hit filters and filter rows for blanks.
 
-• With the command 'remove duplicates', there was no instance where the data was duplicated with all the exact parameters for a
+• With the command 'remove duplicates', there was no instance where the data was duplicated with all the exact parameters for a customer in all columns. So all the rows had some variety to it hence returning no duplicate data for our data set.
 
-customer in all columns. So all the rows had some variety to it hence returning no duplicate data for our data set.
+• Finally, made sure Order Date and Ship Date were well formatted by formating it to dates (which they already were) and formatted the Sales and Profits columns from numbers to currencies since we our talking about financials. The discount column was not formated to currency as in this context, the discount is more of a percentage value. So discount will later be formatted from number to percentage by just multiplying it by 100.
 
-• Finally, made sure Order Date and Ship Date were well formatted by formating it to dates (which they already were) and
-
-formatted the Sales and Profits columns from numbers to currencies since we our talking about financials. The discount column
-
-was not formated to currency as in this context, the discount is more of a percentage value. So discount will later be formatted
-
-from number to percentage by just multiplying it by 100.
-
-Now our dataset is ideal for analysis to discover relationships, trends and patterns that will give us a competitive edge and completely
-
-solve our business objectives.
+Now our dataset is ideal for analysis to discover relationships, trends and patterns that will give us a competitive edge and completely solve our business objectives.
 
 # Step 4: Analyze
 
